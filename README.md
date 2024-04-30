@@ -6,7 +6,7 @@ We'll combine ideas from paper RAG papers into a RAG agent:
 - **Fallback:** Corrective RAG ([paper](https://arxiv.org/pdf/2401.15884.pdf)). Fallback to web search if docs are not relevant to query
 - **Self-correction:** Self-RAG ([paper](https://arxiv.org/abs/2310.11511)). Fix answers w/ hallucinations or don’t address question
 
-![langgraph_adaptive_rag.png](attachment:7b00797e-fb85-4474-9a9e-c505b61add81.png)
+![langgraph_adaptive_rag.png](https://cdn.discordapp.com/attachments/1096805918114586694/1234951243718459465/download.png?ex=66329978&is=663147f8&hm=46b09c94415c113f9a795fba2ca5bb5abd239a1111f05d430993266fe2588e33&)
 
 ## Local models
 
